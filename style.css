@@ -1,0 +1,35 @@
+body {
+    background-color: #865DFF;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: #191825;
+}
+
+a:visited {
+    color: #FFA3FD;
+}
+
+p {
+    text-align: center;
+}
+
+.img {
+    display: block;
+    margin: 0 auto;
+}
+
+.generalText {
+    font-size: 25px;
+    font-family: 'Comfortaa', cursive;
+    font-weight: 400;
+    color: #FFA3FD;
+}
+
+.myList {
+    list-style: disc;
+    color: #191825;
+}
