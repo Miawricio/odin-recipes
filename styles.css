@@ -1,0 +1,76 @@
+body{
+    background-color: #DDD0C8;
+}
+
+main{
+    padding-bottom: 100px; 
+    width : 60%;
+    margin : 0 auto;
+    background-color: #6e6e6ea8;
+    border: #000000 3px solid;
+    border-radius: 10px;
+}
+p{
+    font-size: 1.5em;
+    color: #DDD0C8;
+    font-family: "Funnel Display", sans-serif;
+    font-weight: 300;
+    width: 60%;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+
+h1{
+    text-align: center;
+    font-size: 2.5em;
+    color: #DDD0C8;
+    font-family: "Bagel Fat One", sans-serif;
+    font-weight: 300;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+h2{
+    padding-left: 200px;
+    font-size: 2em;
+    color: #323232;
+    font-family: "Funnel Display", sans-serif;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+ul{
+    margin: 0 auto;
+    width: 60%;
+}
+
+li{
+    font-size: 1em;
+    color: #323232;
+    font-family: "Funnel Display", sans-serif;
+    font-weight: 300;
+    margin-top: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: #DDD0C8;
+}
+
+footer p{
+    text-align: center;
+    font-size: 1.5em;
+    color: #323232;
+    font-family: "Funnel Display", sans-serif;
+    font-weight: 300;
+    margin-top: 50px;
+}
+
+footer img{
+    margin: 0 auto;
+    width: 1.5em;
+    height: 1.5em;
+}
